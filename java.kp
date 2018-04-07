@@ -1,0 +1,10 @@
+Class A
+public static void main()
+{
+system.out.println("Identification of Software Assets.
+Verifying the Software Assets including licenses, usage, and rights.
+Identifying gaps that may exist between what exists on the installations, and the licenses possessed, and the rights of usage.
+Taking action to close any gaps.
+Recording the results in a centralized location with Proof of Purchase records");
+}
+
